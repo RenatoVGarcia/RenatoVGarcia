@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="[https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/renato-garcia-680979230)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:renatov.garcia@icloud.com" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-renatov.garcia%40icloud.com-000000?style=for-the-badge&logo=apple&logoColor=white" alt="E-mail" />
   </a>
-  <a href="https://github.com/SEU-USUARIO-GITHUB" target="_blank">
+  <a href="https://github.com/SEU-USUARIO-GITHUBhttps://github.com/RenatoVGarcia" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
