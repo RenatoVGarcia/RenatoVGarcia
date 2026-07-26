@@ -1,17 +1,19 @@
 <h1 align="center">Olá, eu sou o Renato Vinicius Garcia! 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Front-End | Engenheiro Eletrônico | Especialista em IA & Alta Performance</b>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End+%26+Engenheiro+Eletr%C3%B4nico;React+%7C+TypeScript+%7C+VTEX+IO;Especialista+em+Core+Web+Vitals+%26+Performance;Python+%7C+C%2FC%2B%2B+%7C+Solu%C3%A7%C3%B5es+em+IA;3%2B+anos+criando+Aplica%C3%A7%C3%B5es+Web+de+Alta+Performance" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/renato-garcia-680979230" target="_blank">
+  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:renatov.garcia@icloud.com" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-renatov.garcia%40icloud.com-000000?style=for-the-badge&logo=apple&logoColor=white" alt="E-mail" />
   </a>
-  <a href="https://github.com/RenatoVGarcia" target="_blank">
+  <a href="https://github.com/SEU-USUARIO-GITHUB" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
