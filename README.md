@@ -1,70 +1,71 @@
-<h1 align="center">Hi, I'm Renato Vinicius Garcia! 👋</h1>
+<h1 align="center">Olá, eu sou o Renato Vinicius Garcia! 👋</h1>
 
 <p align="center">
-  <b>Front-End Developer | Electronic Engineer | AI & Performance Specialist</b>
+  <b>Desenvolvedor Front-End | Engenheiro Eletrônico | Especialista em IA & Alta Performance</b>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:renatov.garcia@icloud.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-renatov.garcia%40icloud.com-000000?style=for-the-badge&logo=apple&logoColor=white" alt="E-mail" />
   </a>
-  <a href="https://github.com/SEU-USUARIO" target="_blank">
+  <a href="https://github.com/SEU-USUARIO-GITHUB" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-## 🧩 About Me
+## 🧩 Sobre Mim
 
-Sou **Desenvolvedor Front-End** com mais de 3 anos de experiência no mercado de tecnologia e e-commerce, além de **Engenheiro Eletrônico** formado pela **Universidade Tecnológica Federal do Paraná (UTFPR)**.
+Sou **Desenvolvedor Front-End** com mais de 3 anos de experiência prática na criação de aplicações web modernas e e-commerces, além de ser formado em **Engenharia Eletrônica** pela **Universidade Tecnológica Federal do Paraná (UTFPR)**.
 
-Minha trajetória une o rigor técnico da engenharia à criação de interfaces modernas e performáticas para a web.
+Minha trajetória combina a precisão técnica da engenharia com o foco na criação de interfaces de alta performance focadas na experiência do usuário.
 
-* 🚀 **Especialista em Front-End & E-commerce:** Ampla experiência em React, TypeScript, HTML/CSS, VTEX IO e integração com APIs RESTful.
-* ⚡ **Foco em Alta Performance:** Atuação direta na otimização de métricas **Core Web Vitals** (LCP, CLS, INP, FCP) e melhoria no tempo de carregamento de páginas.
-* 🛠️ **Forte Base em C/C++ & Python:** Sólido background em engenharia e desenvolvimento de software baixo/alto nível, com múltiplos projetos práticos construídos em Python e C/C++.
-* 🤖 **Inteligência Artificial:** Aplicação de IA e automações para solução de problemas complexos e otimização de fluxos.
-* 🎓 **Formação:** Engenharia Eletrônica — UTFPR.
+* 🚀 **Especialista em Front-End & E-commerce:** Domínio prático em React, TypeScript, HTML5/CSS3, VTEX IO e integração com APIs RESTful.
+* ⚡ **Otimização de Performance:** Especialista na melhoria de **Core Web Vitals** (LCP, CLS, INP, FCP) para otimizar velocidade de carregamento, SEO e UX.
+* 🛠️ **Sólida Bagagem em C/C++ & Python:** Forte atuação em desenvolvimento de baixo e alto nível, tendo desenvolvido múltiplos projetos utilizando Python e C/C++.
+* 🤖 **Inteligência Artificial:** Experiência com integração de ferramentas de IA e criação de fluxos inteligentes de automação.
+* 🎓 **Formação:** Bacharel em Engenharia Eletrônica — UTFPR.
+* 📬 **Entre em contato:** [renatov.garcia@icloud.com](mailto:renatov.garcia@icloud.com)
 
 ---
 
-## 🛠️ Stack & Tools
+## 🛠️ Tecnologias & Ferramentas
 
-<p align="center"><b>Languages</b></p>
+<p align="center"><b>Linguagens</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,html,css" />
 </p>
 
-<p align="center"><b>Frameworks & Web Technologies</b></p>
+<p align="center"><b>Frameworks & Tecnologias Web</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,sass" />
 </p>
 
-<p align="center"><b>AI, Tools & Workflow</b></p>
+<p align="center"><b>IA, Ferramentas & Fluxo de Trabalho</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,git,github,vscode,figma" />
 </p>
 
 ---
 
-## 📊 Experience Highlights
+## 📊 Destaques de Experiência
 
 * 🏢 **Corebiz** — *Desenvolvedor Front-End*
-  * Desenvolvimento e manutenção de e-commerces utilizando **VTEX IO**, **React** e **TypeScript**.
-  * Consumo e integração de **APIs RESTful** para dados dinâmicos.
-  * Otimização avançada de **Core Web Vitals** (LCP, CLS, INP, FCP) focado em SEO e UX.
-  * Criação e padronização de e-mails em HTML.
+  * Desenvolvimento e manutenção de e-commerces de alto impacto utilizando **VTEX IO**, **React** e **TypeScript**.
+  * Integração de **APIs RESTful** para consumo e renderização de dados dinâmicos nas interfaces.
+  * Liderança de frentes de otimização de tempo de carregamento focando nas métricas de **Core Web Vitals** (LCP, CLS, INP, FCP).
+  * Criação e estruturação de e-mails responsivos em HTML.
 
-* ⚡ **Iguana Sports** — *Desenvolvedor*
-  * Desenvolvimento de e-mails dinâmicos em HTML e certificados digitais de conclusão de corridas.
-  * Configuração, automação de fluxos e nutrição na plataforma **RD Station**.
+* ⚡ **Iguana Sports** — *Desenvolvedor (Autônomo)*
+  * Desenvolvimento de e-mails em HTML e automação de certificados digitais de conclusão de corridas.
+  * Configuração e automação de fluxos de marketing usando **RD Station**.
 
 ---
 
 <p align="center">
-  📫 <i>Sinta-se à vontade para se conectar comigo ou conferir meus repositórios!</i>
+  📫 <i>Sinta-se à vontade para se conectar ou explorar meus repositórios!</i>
 </p>
