@@ -51,9 +51,7 @@ Minha trajetória combina a precisão técnica da engenharia com o foco na cria�
 <p align="center"><b>IA, Hardware & Ferramentas</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mcu,arduino,py,git,github,vscode,figma" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+  <img src="https://skillicons.dev/icons?i=py,git,github,vscode,figma" />
 </p>
 
 ---
