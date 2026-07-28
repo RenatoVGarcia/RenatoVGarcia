@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End+%26+Engenheiro+Eletr%C3%B4nico;React+%7C+TypeScript+%7C+VTEX+IO;Especialista+em+Core+Web+Vitals+%26+Performance;Python+%7C+C%2FC%2B%2B+%7C+Solu%C3%A7%C3%B5es+em+IA;3%2B+anos+criando+Aplica%C3%A7%C3%B5es+Web+de+Alta+Performance" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End+%26+Engenheiro+Eletr%C3%B4nico;React+%7C+TypeScript+%7C+VTEX+IO;Desenvolvimento+de+Hardware+%26+KiCad;Especialista+em+Core+Web+Vitals+%26+Performance;Python+%7C+C%2FC%2B%2B+%7C+Solu%C3%A7%C3%B5es+em+IA" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,6 +27,7 @@ Sou **Desenvolvedor Front-End** com mais de 3 anos de experiência prática na c
 Minha trajetória combina a precisão técnica da engenharia com o foco na criação de interfaces de alta performance focadas na experiência do usuário.
 
 * 🚀 **Especialista em Front-End & E-commerce:** Domínio prático em React, TypeScript, HTML5/CSS3, VTEX IO e integração com APIs RESTful.
+* 🔌 **Engenharia Eletrônica & Hardware:** Experiência com desenvolvimento de hardware, schematics, layout de PCB utilizando **KiCad** e sistemas embarcados.
 * ⚡ **Otimização de Performance:** Especialista na melhoria de **Core Web Vitals** (LCP, CLS, INP, FCP) para otimizar velocidade de carregamento, SEO e UX.
 * 🛠️ **Sólida Bagagem em C/C++ & Python:** Forte atuação em desenvolvimento de baixo e alto nível, tendo desenvolvido múltiplos projetos utilizando Python e C/C++.
 * 🤖 **Inteligência Artificial:** Experiência com integração de ferramentas de IA e criação de fluxos inteligentes de automação.
@@ -47,9 +48,9 @@ Minha trajetória combina a precisão técnica da engenharia com o foco na cria�
   <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,sass" />
 </p>
 
-<p align="center"><b>IA, Ferramentas & Fluxo de Trabalho</b></p>
+<p align="center"><b>IA, Hardware & Ferramentas</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=kicad,py,git,github,vscode,figma" />
 </p>
 
 ---
