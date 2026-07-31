@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Renato Vinicius Garcia! 👋</h1>
+<h1 align="center">Olá, eu sou o Renato Garcia! </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
