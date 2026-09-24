@@ -22,17 +22,45 @@
 
 ## 🧩 Sobre Mim
 
-Sou **Desenvolvedor Front-End** com mais de 3 anos de experiência prática na criação de aplicações web modernas e e-commerces, além de ser formado em **Engenharia Eletrônica** pela **Universidade Tecnológica Federal do Paraná (UTFPR)**.
+Sou **Engenheiro Eletrônico** formado pela **Universidade Tecnológica Federal do Paraná (UTFPR)** e atualmente atuo como **Desenvolvedor de Hardware & Firmware** na **Diel Energia**.
 
-Minha trajetória combina a precisão técnica da engenharia com o foco na criação de interfaces de alta performance focadas na experiência do usuário.
+Combino o rigor da Engenharia de Hardware com mais de 3 anos de sólida experiência em desenvolvimento de software e ecossistemas web. Minha atuação abrange desde a concepção de circuitos e sistemas embarcados de baixo nível até a comunicação com a nuvem e interfaces de usuário.
 
-* 🚀 **Especialista em Front-End & CMS:** Domínio prático em React, TypeScript, HTML5/CSS3, VTEX IO, criação de sites em **WordPress** e integração com APIs RESTful.
-* 🔌 **Engenharia Eletrônica & Hardware:** Experiência com desenvolvimento de hardware, schematics, layout de PCB utilizando **KiCad** e sistemas embarcados.
-* ⚡ **Otimização de Performance:** Especialista na melhoria de **Core Web Vitals** (LCP, CLS, INP, FCP) para otimizar velocidade de carregamento, SEO e UX.
-* 🛠️ **Sólida Bagagem em C/C++ & Python:** Forte atuação em desenvolvimento de baixo e alto nível, tendo desenvolvido múltiplos projetos utilizando Python e C/C++.
-* 🤖 **Inteligência Artificial:** Experiência com integração de ferramentas de IA e criação de fluxos inteligentes de automação.
-* 🎓 **Formação:** Bacharel em Engenharia Eletrônica — UTFPR.
-* 📬 **Entre em contato:** [renatov.garcia@icloud.com](mailto:renatov.garcia@icloud.com)
+### 📌 Informações Rápidas
+
+* 🎓 **Formação:** Engenharia Eletrônica (UTFPR)
+* 🏢 **Atuação:** Desenvolvedor Hardware & Firmware na Diel Energia
+* 📬 **Contato:** [renatov.garcia@icloud.com](mailto:renatov.garcia@icloud.com)
+
+---
+
+## 🚀 O que eu faço:
+
+* ⚡ **Desenvolvimento de Hardware & PCBs:** Projeto e desenvolvimento de hardware para IoT e automação. Atuação completa em especificação de componentes, esquemáticos elétricos, layout de PCB multi-camadas utilizando **KiCad**, prototipagem rápida, montagem, testes de bancada e validação de hardware.
+* 🧠 **Firmware & Sistemas Embarcados:** Desenvolvimento de firmware de alto desempenho em **C e C++** para microcontroladores (como linhas ESP32, STM32, ARM Cortex e AVR). Implementação de arquiteturas de firmware (RTOS / Bare-metal), máquinas de estados, gerenciamento de consumo de energia (*low power*) e otimização de memória.
+* 📡 **Protocolos de Comunicação & IoT:** Experiência prática na integração de periféricos via **I2C, SPI, UART/USART, CAN e RS-485 (Modbus)**, além do uso de protocolos de rede e IoT como **MQTT, HTTP/REST, Wi-Fi e Bluetooth (BLE)** para conexão e telemetria com a nuvem.
+* 💻 **Desenvolvimento Web & Front-End:** Mais de 3 anos de bagagem em **React, TypeScript, HTML5/CSS3, VTEX IO, WordPress** e integração de APIs RESTful. Foco em alta performance e otimização técnica de métricas (**Core Web Vitals**).
+* 🛠️ **Ferramentas, Instrumentação & Linguagens:** Domínio de **C/C++, Python, TypeScript e HTML/CSS**. Utilização de instrumentação de bancada (osciloscópio, analisador lógico, fonte bancada, multímetro) para *debugging* de hardware/firmware e análise de sinais.
+* 🤖 **Automação & IA:** Experiência com integração de ferramentas de Inteligência Artificial e criação de fluxos inteligentes de automação e scripts em Python.
+
+---
+
+## 📊 Destaques de Experiência
+
+* ⚡ **Diel Energia** — *Desenvolvedor Hardware & Firmware (Time de Produto)*
+  * Atuação na concepção e desenvolvimento de soluções de **Hardware e Firmware** voltadas para **IoT** e eficiência energética em sistemas prediais e industriais.
+  * Desenvolvimento em **C/C++** e integração de sensores, atuadores e protocolos de comunicação para monitoramento em tempo real.
+  * Colaboração direta com o time de Produto para prototipagem rápida, melhoria contínua de dispositivos e garantia de confiabilidade do ecossistema de dispositivos embarcados.
+
+* 🏢 **Corebiz** — *Desenvolvedor Front-End*
+  * Desenvolvimento e manutenção de e-commerces de alto impacto utilizando **VTEX IO**, **React** e **TypeScript**.
+  * Integração de **APIs RESTful** para consumo e renderização de dados dinâmicos nas interfaces.
+  * Liderança de frentes de otimização de tempo de carregamento focando nas métricas de **Core Web Vitals** (LCP, CLS, INP, FCP).
+  * Criação e estruturação de e-mails responsivos em HTML.
+
+* ⚡ **Iguana Sports** — *Desenvolvedor (Autônomo)*
+  * Desenvolvimento de e-mails em HTML e automação de certificados digitais de conclusão de corridas.
+  * Configuração e automação de fluxos de marketing usando **RD Station**.
 
 ---
 
@@ -52,20 +80,6 @@ Minha trajetória combina a precisão técnica da engenharia com o foco na cria�
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,py,git,github,vscode,figma" />
 </p>
-
----
-
-## 📊 Destaques de Experiência
-
-* 🏢 **Corebiz** — *Desenvolvedor Front-End*
-  * Desenvolvimento e manutenção de e-commerces de alto impacto utilizando **VTEX IO**, **React** e **TypeScript**.
-  * Integração de **APIs RESTful** para consumo e renderização de dados dinâmicos nas interfaces.
-  * Liderança de frentes de otimização de tempo de carregamento focando nas métricas de **Core Web Vitals** (LCP, CLS, INP, FCP).
-  * Criação e estruturação de e-mails responsivos em HTML.
-
-* ⚡ **Iguana Sports** — *Desenvolvedor (Autônomo)*
-  * Desenvolvimento de e-mails em HTML e automação de certificados digitais de conclusão de corridas.
-  * Configuração e automação de fluxos de marketing usando **RD Station**.
 
 ---
 
