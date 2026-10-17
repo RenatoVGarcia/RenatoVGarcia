@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End+%26+Engenheiro+Eletr%C3%B4nico;React+%7C+TypeScript+%7C+VTEX+IO+%7C+WordPress;Desenvolvimento+de+Hardware+%26+KiCad;Especialista+em+Core+Web+Vitals+%26+Performance;Python+%7C+C%2FC%2B%2B+%7C+Solu%C3%A7%C3%B5es+em+IA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Engenheiro+Eletr%C3%B4nico+%7C+Hardware+%26+Firmware;C+%7C+C%2B%2B+%7C+ESP32+%7C+STM32+%7C+ARM+Cortex;Projeto+de+PCBs+com+KiCad;IoT+%7C+RTOS+%7C+Sistemas+Embarcados;I2C+%7C+SPI+%7C+UART+%7C+CAN+%7C+Modbus" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,12 +24,13 @@
 
 Sou **Engenheiro Eletrônico** formado pela **Universidade Tecnológica Federal do Paraná (UTFPR)** e atualmente atuo como **Desenvolvedor de Hardware & Firmware** na **Diel Energia**.
 
-Combino o rigor da Engenharia de Hardware com mais de 3 anos de sólida experiência em desenvolvimento de software e ecossistemas web. Minha atuação abrange desde a concepção de circuitos e sistemas embarcados de baixo nível até a comunicação com a nuvem e interfaces de usuário.
+Meu foco é o desenvolvimento de **hardware e sistemas embarcados**: da especificação de componentes e projeto de PCBs ao firmware de baixo nível e à comunicação dos dispositivos com a nuvem. Minha experiência anterior com desenvolvimento de software me dá uma visão completa do produto, facilitando a integração entre o dispositivo, a nuvem e quem consome os dados.
 
 ### 📌 Informações Rápidas
 
 * 🎓 **Formação:** Engenharia Eletrônica (UTFPR)
 * 🏢 **Atuação:** Desenvolvedor Hardware & Firmware na Diel Energia
+* 🎯 **Foco:** Hardware, Firmware, Sistemas Embarcados e IoT
 * 📬 **Contato:** [renatov.garcia@icloud.com](mailto:renatov.garcia@icloud.com)
 
 ---
@@ -39,9 +40,8 @@ Combino o rigor da Engenharia de Hardware com mais de 3 anos de sólida experiê
 * ⚡ **Desenvolvimento de Hardware & PCBs:** Projeto e desenvolvimento de hardware para IoT e automação. Atuação completa em especificação de componentes, esquemáticos elétricos, layout de PCB multi-camadas utilizando **KiCad**, prototipagem rápida, montagem, testes de bancada e validação de hardware.
 * 🧠 **Firmware & Sistemas Embarcados:** Desenvolvimento de firmware de alto desempenho em **C e C++** para microcontroladores (como linhas ESP32, STM32, ARM Cortex e AVR). Implementação de arquiteturas de firmware (RTOS / Bare-metal), máquinas de estados, gerenciamento de consumo de energia (*low power*) e otimização de memória.
 * 📡 **Protocolos de Comunicação & IoT:** Experiência prática na integração de periféricos via **I2C, SPI, UART/USART, CAN e RS-485 (Modbus)**, além do uso de protocolos de rede e IoT como **MQTT, HTTP/REST, Wi-Fi e Bluetooth (BLE)** para conexão e telemetria com a nuvem.
-* 💻 **Desenvolvimento Web & Front-End:** Mais de 3 anos de bagagem em **React, TypeScript, HTML5/CSS3, VTEX IO, WordPress** e integração de APIs RESTful. Foco em alta performance e otimização técnica de métricas (**Core Web Vitals**).
-* 🛠️ **Ferramentas, Instrumentação & Linguagens:** Domínio de **C/C++, Python, TypeScript e HTML/CSS**. Utilização de instrumentação de bancada (osciloscópio, analisador lógico, fonte bancada, multímetro) para *debugging* de hardware/firmware e análise de sinais.
-* 🤖 **Automação & IA:** Experiência com integração de ferramentas de Inteligência Artificial e criação de fluxos inteligentes de automação e scripts em Python.
+* 🔬 **Instrumentação & Debugging:** Utilização de instrumentação de bancada (osciloscópio, analisador lógico, fonte de bancada, multímetro) para *debugging* de hardware/firmware e análise de sinais.
+* 🐍 **Automação & Ferramentas em Python:** Criação de scripts e ferramentas em **Python** para automação de testes, análise de dados de dispositivos e apoio ao desenvolvimento, além de integração com ferramentas de Inteligência Artificial.
 
 ---
 
@@ -68,17 +68,24 @@ Combino o rigor da Engenharia de Hardware com mais de 3 anos de sólida experiê
 
 <p align="center"><b>Linguagens</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
 </p>
 
-<p align="center"><b>Frameworks & Tecnologias Web</b></p>
+<p align="center"><b>Hardware & Sistemas Embarcados</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,wordpress,tailwind,bootstrap,sass" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
 </p>
 
-<p align="center"><b>IA, Hardware & Ferramentas</b></p>
+<p align="center"><b>Ferramentas</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,py,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,cmake" />
 </p>
 
 ---
